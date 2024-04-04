@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Valluruharshit/week-7/static/css/main.e7bc57c7.css",
+    "main.js": "/Valluruharshit/week-7/static/js/main.6097ec8e.js",
+    "static/js/453.1b6cbde4.chunk.js": "/Valluruharshit/week-7/static/js/453.1b6cbde4.chunk.js",
+    "static/media/website-construction-background_1361-1388.avif": "/Valluruharshit/week-7/static/media/website-construction-background_1361-1388.ab1a94c8b03c54666a06.avif",
+    "index.html": "/Valluruharshit/week-7/index.html",
+    "main.e7bc57c7.css.map": "/Valluruharshit/week-7/static/css/main.e7bc57c7.css.map",
+    "main.6097ec8e.js.map": "/Valluruharshit/week-7/static/js/main.6097ec8e.js.map",
+    "453.1b6cbde4.chunk.js.map": "/Valluruharshit/week-7/static/js/453.1b6cbde4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7bc57c7.css",
+    "static/js/main.6097ec8e.js"
+  ]
+}
